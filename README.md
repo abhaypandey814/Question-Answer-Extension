@@ -1,0 +1,1 @@
+The YouTube Q&A Assistant is a Chrome extension designed to enhance your YouTube experience by providing quick and relevant answers to questions related to a specific video. Say goodbye to manual searching and let the extension fetch information seamlessly.
